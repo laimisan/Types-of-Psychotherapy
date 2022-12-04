@@ -1,21 +1,24 @@
 # Types-of-Psychotherapy
 
-Analysis and visualisation of main types of psychotherapy available in the UK (based on BACP register).
+Analysis of the main types of psychotherapy available in the UK (based on BACP and UKCP registers) using Python.
 
-The purpose of this project was to create a tool that would make it easier for people to find therapy that is suitable to them.
-There are hundreds of types of therapy, the information about what's available is spread out between different sources, 
-and the articles are lengthy and hard to understand - and sometimes even contradictory.
+The purpose of this project was to create a visualisation that would make it easier for people to understand what type of psychotherapy
+is available, as well as get a feel for what is right for them.
 
-I have addressed these issues by:
-* Using the data from one of the main governing bodies, BACP. This will point out the main types of psychotherapy out there,
-as well as their popularity/availability.
+The main issues that I have identified and that have motivated this project are: 
+* There are hundreds of types of therapy 
+* The information about what's available is spread out between different sources
+* The articles are lengthy and hard to understand - and sometimes even contradictory.
+
+I have addressed them by:
+* Using the data from the main governing bodies, BACP and UKCP. This will point out the main types of psychotherapy out there,
+as well as their popularity/availability while ensuring data integrity.
 * Using NLP techniques on a combination of different articles describing psychotherapy types to gain insight into what aspects
 are at the core, i.e. would be mentioned most often, regardless of the source.
 * Grouping therapy types based on identified similarities between their descriptions and features.
-* Vissualising the information using an interactive sunburst chart, which:
-  i) provides a quick understanding of the main types of therapy, and how they differ
-  ii) show how widely these therapy types are available
-  iii) provides a core summary of each type when hovering over with a cursor.
+* Vissualising the information by building two infographics.
   
 Ideally, this would point the reader to the right direction by invoking a curiosity about therapies that seem like a right fit for them,
-while also allowing them do discard the ones that don't - all in one place.
+and providing a mental framework to base deeper research on.
+
+Please find the infographics at www.laimisandrijauskas.com
