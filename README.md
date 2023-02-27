@@ -21,4 +21,4 @@ are at the core, i.e. would be mentioned most often, regardless of the source.
 Ideally, this would point the reader to the right direction by invoking a curiosity about therapies that seem like a right fit for them,
 and providing a mental framework to base deeper research on.
 
-Please find the infographics at www.laimisandrijauskas.com
+For more info please visit https://laimisandrijauskas.com/types%20of%20psychotherapy.html
